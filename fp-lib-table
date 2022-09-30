@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MMBT2222")(type "KiCad")(uri "${KIPRJMOD}/MMBT2222")(options "")(descr ""))
+  (lib (name "MB10F")(type "KiCad")(uri "${KIPRJMOD}/MB10F.pretty")(options "")(descr ""))
+)

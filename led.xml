@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>F:\Documents\Kicad Projects\led\led.kicad_sch</source>
+    <date>27/02/2022 18:24:41</date>
+    <tool>Eeschema (6.0.2)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>led.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BR1">
+      <value>MB10F</value>
+      <footprint>MB10F:SOP250P670X180-4N</footprint>
+      <datasheet>https://www.arrow.com/en/products/mb10f/rectron</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MB10F</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mb10f/rectron?region=nac</field>
+        <field name="Description">MB10F</field>
+        <field name="Height">1.8</field>
+        <field name="Manufacturer_Name">Rectron</field>
+        <field name="Manufacturer_Part_Number">MB10F</field>
+      </fields>
+      <libsource lib="MB10F" part="MB10F" description="MB10F"/>
+      <property name="Description" value="MB10F"/>
+      <property name="Height" value="1.8"/>
+      <property name="Manufacturer_Name" value="Rectron"/>
+      <property name="Manufacturer_Part_Number" value="MB10F"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value="MB10F"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/mb10f/rectron?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf5bf7b9-7ffe-4b63-912c-b3dd654186f3</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f3003e6-dce5-420f-906b-3f1e92b67249</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbc53251-e7fd-41ad-a414-b48f1260befa</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9391531-c219-44d2-8ee5-93bb68c45d48</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89ca9bb4-c9a1-43ac-81a0-0de1e2a1306b</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c69b5046-d481-4a98-b35d-6b5e19559aa7</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d977735-3e5d-446e-adf8-e93acb290e04</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9aaec098-00f6-4aba-92b0-844b711ddcfd</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88f99089-feea-4570-98a1-b81393463b03</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a070180f-a3a7-4391-95b5-82f68407cb4b</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65b28ff1-ce1b-45e8-b60c-4090b0a6f97b</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2657548-b878-4b1d-916d-fa122da26ca0</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e9729ea-8b56-427b-a325-af1fb9b2c7b8</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc8e7cf2-03e4-4fd7-b632-bdfdc03adf72</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>679b4060-dcb4-461d-9c1b-6310a37d2c8b</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da4418f3-7743-4acf-8f78-2c9c0ae64760</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88ab3651-67fe-4ba6-a380-eaef084aa1ac</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9576a16-33c7-44bc-8d26-00163042fd25</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99923c32-f3bb-4f41-9f2f-c4d8df168eac</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ace0c37-b4d2-4166-9a08-29d7caffdf60</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91387d35-d7b4-4580-82ca-5d3cbfc824a7</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c786054-c158-4ccd-97a4-a52c67223d2b</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b0d4968-ffa3-47d9-850b-9b6578ced365</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ae2279e-0816-4314-ae90-0d753d69ff7d</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41345b37-6c7a-42cb-9569-503896b9f412</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a437155b-da4e-40ce-8027-a6c099dfef0f</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8bc7017-17da-41c9-9fce-7a134e98b3c5</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5a20633-45e2-4754-934b-91b1aef6bd0b</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ea1709b-d76e-463c-b8d6-d50cb8eb368b</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d13e7b6d-63cd-4617-8764-cc38c5a9e50d</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d26f4dea-9296-4c15-8b70-9dbb87d14c0a</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f1ec115-9dac-4ff9-a403-f24299736733</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9a3e7a7-4b6c-4a33-979d-4bf5223f8d31</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60a2b3b7-beef-4c20-99f6-d269a14e54d2</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05551453-3a94-4924-93a1-3af33c189f3e</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d80a4652-e7ed-4566-92f6-76a18cabb7d6</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9a98194-44eb-4d5a-adbb-1183204fb91d</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>693d4885-5c36-45ce-8a24-b4692a572558</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9eea97b-b5c5-4fb3-a982-71d4c003a44e</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8affbbfc-7a19-4367-8cbf-abdf4e25dcaa</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eef28992-d1be-4e0f-acc4-da16fd8e9176</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>226a922f-5ac2-439b-a85a-8f1e92b1c5fa</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3381ee4a-b8f6-4a20-a30b-ff1a43371d37</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e87240fd-bc12-4873-bb37-c0f4e2a13cfd</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e46dd247-41ab-4a11-88ca-2cd335bf69f8</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b18b5e91-09bf-4e66-a5c9-45d804ff0159</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bb0e231-aa8a-4952-9f83-0c6186fe9b76</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93aec781-9154-453b-9543-70ddd0ef21fb</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>197ee073-8df2-40ec-bccc-00e85fb1ca6e</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3bac9ad-1b5f-4f44-bd7f-8fd9ecb2877d</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c8d8117-d9a1-419c-969a-e5b01cd661c8</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51cdb22c-0983-4862-8f2f-b5f686e3b17b</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29a72955-ae45-4ff4-ac8d-0e979fd7a625</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>467b8bbe-6aa8-4b56-b7f8-08a42c9f1cea</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>485cd116-5648-48f1-9fdd-7b9b34a6727a</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51cd8ce4-70e8-473e-810c-317c6f7210be</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>429e390a-0564-408e-a2c5-8330d5cd0389</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5aa11340-9719-48e6-a38b-20853d6f50b4</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>D_Zener</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ae8d569-e39a-4cd9-8ae4-d05ff41a5f40</tstamps>
+    </comp>
+    <comp ref="GRD1">
+      <value>Ground</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96519d58-986f-4601-b2be-98799316a2da</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>MMBT2222</value>
+      <footprint>SOT95P240X114-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMBT2222.pdf</datasheet>
+      <fields>
+        <field name="Description">Bipolar Transistors - BJT NPN Transistor General Purpose</field>
+        <field name="Height">1.14</field>
+        <field name="Manufacturer_Name">ON Semiconductor</field>
+        <field name="Manufacturer_Part_Number">MMBT2222</field>
+        <field name="Mouser Part Number">512-MMBT2222</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D</field>
+      </fields>
+      <libsource lib="MMBT2222" part="MMBT2222" description="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Description" value="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Height" value="1.14"/>
+      <property name="Manufacturer_Name" value="ON Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="MMBT2222"/>
+      <property name="Mouser Part Number" value="512-MMBT2222"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f30ff9b-3e30-4ce7-81d7-edfd015c6ec8</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>MMBT2222</value>
+      <footprint>SOT95P240X114-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMBT2222.pdf</datasheet>
+      <fields>
+        <field name="Description">Bipolar Transistors - BJT NPN Transistor General Purpose</field>
+        <field name="Height">1.14</field>
+        <field name="Manufacturer_Name">ON Semiconductor</field>
+        <field name="Manufacturer_Part_Number">MMBT2222</field>
+        <field name="Mouser Part Number">512-MMBT2222</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D</field>
+      </fields>
+      <libsource lib="MMBT2222" part="MMBT2222" description="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Description" value="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Height" value="1.14"/>
+      <property name="Manufacturer_Name" value="ON Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="MMBT2222"/>
+      <property name="Mouser Part Number" value="512-MMBT2222"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2da17073-4f94-4595-aa86-f893bb63163c</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>MMBT2222</value>
+      <footprint>SOT95P240X114-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMBT2222.pdf</datasheet>
+      <fields>
+        <field name="Description">Bipolar Transistors - BJT NPN Transistor General Purpose</field>
+        <field name="Height">1.14</field>
+        <field name="Manufacturer_Name">ON Semiconductor</field>
+        <field name="Manufacturer_Part_Number">MMBT2222</field>
+        <field name="Mouser Part Number">512-MMBT2222</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D</field>
+      </fields>
+      <libsource lib="MMBT2222" part="MMBT2222" description="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Description" value="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Height" value="1.14"/>
+      <property name="Manufacturer_Name" value="ON Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="MMBT2222"/>
+      <property name="Mouser Part Number" value="512-MMBT2222"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa46c998-a7cc-45d9-a3df-a4ddce2916bf</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>MMBT2222</value>
+      <footprint>SOT95P240X114-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMBT2222.pdf</datasheet>
+      <fields>
+        <field name="Description">Bipolar Transistors - BJT NPN Transistor General Purpose</field>
+        <field name="Height">1.14</field>
+        <field name="Manufacturer_Name">ON Semiconductor</field>
+        <field name="Manufacturer_Part_Number">MMBT2222</field>
+        <field name="Mouser Part Number">512-MMBT2222</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D</field>
+      </fields>
+      <libsource lib="MMBT2222" part="MMBT2222" description="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Description" value="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Height" value="1.14"/>
+      <property name="Manufacturer_Name" value="ON Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="MMBT2222"/>
+      <property name="Mouser Part Number" value="512-MMBT2222"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42aeffcc-042f-4867-9c8e-1d33854c82f2</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>MMBT2222</value>
+      <footprint>SOT95P240X114-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMBT2222.pdf</datasheet>
+      <fields>
+        <field name="Description">Bipolar Transistors - BJT NPN Transistor General Purpose</field>
+        <field name="Height">1.14</field>
+        <field name="Manufacturer_Name">ON Semiconductor</field>
+        <field name="Manufacturer_Part_Number">MMBT2222</field>
+        <field name="Mouser Part Number">512-MMBT2222</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D</field>
+      </fields>
+      <libsource lib="MMBT2222" part="MMBT2222" description="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Description" value="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Height" value="1.14"/>
+      <property name="Manufacturer_Name" value="ON Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="MMBT2222"/>
+      <property name="Mouser Part Number" value="512-MMBT2222"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f6e4883-fff9-46f1-bd3f-45cde5ade1ea</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>MMBT2222</value>
+      <footprint>SOT95P240X114-3N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MMBT2222.pdf</datasheet>
+      <fields>
+        <field name="Description">Bipolar Transistors - BJT NPN Transistor General Purpose</field>
+        <field name="Height">1.14</field>
+        <field name="Manufacturer_Name">ON Semiconductor</field>
+        <field name="Manufacturer_Part_Number">MMBT2222</field>
+        <field name="Mouser Part Number">512-MMBT2222</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D</field>
+      </fields>
+      <libsource lib="MMBT2222" part="MMBT2222" description="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Description" value="Bipolar Transistors - BJT NPN Transistor General Purpose"/>
+      <property name="Height" value="1.14"/>
+      <property name="Manufacturer_Name" value="ON Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="MMBT2222"/>
+      <property name="Mouser Part Number" value="512-MMBT2222"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa4f8f14-6bb2-40ce-9b20-2c5e080aa77e</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1268a44e-cabc-4597-9dd0-7d981aa49be2</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96e11d7a-80c6-40c0-b492-64b86f18664a</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55d3bb9a-fd07-47f6-ac8c-0b322236c705</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>7R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c888260-6a84-40c0-9539-b67030338195</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>449da5ab-c6ac-45b5-bcdc-f492eee962dc</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>7R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ca6462a-2369-4e8c-8dbd-bb04749e25f4</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>7R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f583cf42-b46c-47a9-8323-a41ae913e70e</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>075f968e-1748-48c5-a6e1-dfd4591849ef</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="led.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4570e31-f9dd-4e13-a8d5-42733b999b4d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MB10F" part="MB10F">
+      <description>MB10F</description>
+      <docs>https://www.arrow.com/en/products/mb10f/rectron</docs>
+      <fields>
+        <field name="Reference">BR</field>
+        <field name="Value">MB10F</field>
+        <field name="Footprint">SOP250P670X180-4N</field>
+        <field name="Datasheet">https://www.arrow.com/en/products/mb10f/rectron</field>
+        <field name="Description">MB10F</field>
+        <field name="Height">1.8</field>
+        <field name="Manufacturer_Name">Rectron</field>
+        <field name="Manufacturer_Part_Number">MB10F</field>
+        <field name="Arrow Part Number">MB10F</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mb10f/rectron?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{_1}" type="passive"/>
+        <pin num="2" name="~{_2}" type="passive"/>
+        <pin num="3" name="+" type="passive"/>
+        <pin num="4" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MMBT2222" part="MMBT2222">
+      <description>Bipolar Transistors - BJT NPN Transistor General Purpose</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/MMBT2222.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MMBT2222</field>
+        <field name="Footprint">SOT95P240X114-3N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/MMBT2222.pdf</field>
+        <field name="Description">Bipolar Transistors - BJT NPN Transistor General Purpose</field>
+        <field name="Height">1.14</field>
+        <field name="Manufacturer_Name">ON Semiconductor</field>
+        <field name="Manufacturer_Part_Number">MMBT2222</field>
+        <field name="Mouser Part Number">512-MMBT2222</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222/?qs=UMEuL5FsraD0NR7loUMuuw%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="MB10F">
+      <uri>F:\Documents\Kicad Projects\led/MB10F/MB10F.kicad_sym</uri>
+    </library>
+    <library logical="MMBT2222">
+      <uri>F:\Documents\Kicad Projects\led/MMBT2222/MMBT2222.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="BR1" pin="4" pinfunction="-" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="GRD1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q1" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="2" pintype="passive"/>
+      <node ref="Q6" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(BR1-Pad1)">
+      <node ref="BR1" pin="1" pinfunction="~{_1}" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(BR1-Pad2)">
+      <node ref="BR1" pin="2" pinfunction="~{_2}" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(BR1-Pad3)">
+      <node ref="BR1" pin="3" pinfunction="+" pintype="passive"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q6" pin="3" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D13-Pad1)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q3" pin="3" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D14-Pad1)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D15-Pad1)">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D16-Pad1)">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D18-Pad1)">
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D19-Pad1)">
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D20-Pad1)">
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D22-Pad1)">
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D23-Pad1)">
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D24-Pad1)">
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D26-Pad1)">
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D27-Pad1)">
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D28-Pad1)">
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D29-Pad1)">
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D30-Pad1)">
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D31-Pad1)">
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D32-Pad1)">
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q5" pin="3" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D33-Pad1)">
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D34-Pad1)">
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D35-Pad1)">
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D37-Pad1)">
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D38-Pad1)">
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D39-Pad1)">
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D41-Pad1)">
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D42-Pad1)">
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D43-Pad1)">
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D45-Pad1)">
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D46-Pad1)">
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D47-Pad1)">
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D49-Pad1)">
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D50-Pad1)">
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D51-Pad1)">
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D53-Pad1)">
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D54-Pad1)">
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D55-Pad1)">
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D58-Pad2)">
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(DIMM1-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(JP1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pintype="passive"/>
+      <node ref="Q2" pin="3" pintype="passive"/>
+      <node ref="Q3" pin="1" pintype="passive"/>
+      <node ref="Q4" pin="3" pintype="passive"/>
+      <node ref="Q5" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(Q3-Pad2)">
+      <node ref="Q3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(Q5-Pad2)">
+      <node ref="Q5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

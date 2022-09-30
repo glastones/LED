@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MB10F
+D MB10F
+K
+F https://www.arrow.com/en/products/mb10f/rectron
+$ENDCMP
+#
+#End Doc Library
